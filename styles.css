@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Trad:wght@100..400&display=swap');
+
+/* *{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    outline: 1px solid red;
+} */
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:aqua;
+ } 
+
+
+.blue-h1{
+    color:blue;
+}
+
+.custom-h1{
+ font-family:cursive;
+ font-weight: 400;
+}
+
+li{
+    display: inline-block;
+}
+
